@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+      "name": "P U Mukund",
+      "contact": {
+        "email": ["mp2476@srmist.edu.in", "mukundpu187@gmail.com"],
+        "phone": ["+91-6379279852", "+91-6379279852"],
+        "address": {
+          "current": "Door No: 3A, First Floor, 9th Street, Choudhry Nagar, Valasaravakkam, Chennai, Tamil Nadu, India - 600087",
+          "permanent": "No 4/30A Mukunda Niwas South Street, Eraviputhur, Kanyakumari, Chennai, Tamil Nadu, India - 629402"
+        },
+        "linkedin": "https://www.linkedin.com/in/mukund-p-u-42b74224a/",
+        "github": "https://github.com/Mukund187"
+      },
+      "date_of_birth": "25 Apr, 2003",
+      "gender": "Male",
+      "marital_status": "Single",
+      "languages": ["English", "Tamil", "Hindi"]
+    },
+    "education": [
+      {
+        "institution": "SRM Institute of Science & Technology, Ramapuram",
+        "degree": "B.Tech. - CSE - Big Data Analytics",
+        "start_date": "2021",
+        "end_date": "2025",
+        "cgpa": "8.64 / 10"
+      },
+      {
+        "institution": "Kendriya Vidyalaya, Coimbatore",
+        "degree": "12th | CBSE",
+        "end_date": "2021",
+        "percentage": "73 / 100"
+      },
+      {
+        "institution": "Kendriya Vidyalaya, Coimbatore",
+        "degree": "10th | CBSE",
+        "end_date": "2019",
+        "percentage": "66.40 / 100"
+      }
+    ],
+    "experience": [
+      {
+        "company": "PrepInsta",
+        "role": "Data Analyst",
+        "start_date": "01 Feb, 2024",
+        "end_date": "29 Mar, 2024",
+        "responsibilities": "Built a strong foundation in Python, SQL, Excel, Google Sheets, and data analysis techniques. Improved data quality and reliability by cleaning and manipulating datasets. Used Tableau for data visualization to understand data patterns and trends. Analyzed over 50,000 data points in a capstone project."
+      },
+      {
+        "company": "Null Class",
+        "role": "Developer Intern",
+        "start_date": "01 Oct, 2022",
+        "end_date": "02 Jan, 2023",
+        "responsibilities": "Gained experience in the MERN stack. Developed a Stack Overflow clone with features like user authentication, question posting, and voting."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Image Caption Generator",
+        "start_date": "04 Dec, 2023",
+        "end_date": "18 Dec, 2023",
+        "description": "Spearheaded frontend development for an image caption generator project using HTML, CSS, and JavaScript. Created intuitive user interfaces and ensured seamless backend integration.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Deep Learning"],
+        "link": "https://github.com/Mukund187/Image-caption-generator"
+      },
+      {
+        "name": "Sales Insight Dashboard",
+        "start_date": "01 Jun, 2023",
+        "end_date": "30 Jun, 2023",
+        "description": "Leveraged Tableau and Power BI to develop visually compelling dashboards. Translated intricate sales data into actionable insights.",
+        "technologies": ["Power BI", "Tableau", "Data Cleaning", "Excel"],
+        "link": "https://github.com/Mukund187/Dashboard"
+      }
+    ],
+    "skills": ["Python", "MySQL", "Power BI", "Tableau", "HTML5", "CSS", "JavaScript", "Excel", "NumPy", "Pandas", "Matplotlib", "Data Cleaning"],
+    "assessments_certifications": [
+      {
+        "name": "Fundamental of Structured Query Language",
+        "provider": "University of Michigan on Coursera",
+        "skills": ["Database Management", "SQL"],
+        "description": "Acquired comprehensive knowledge and skills in database management and querying."
+      },
+      {
+        "name": "Data Visualization using tools",
+        "provider": "Ibacus-Tech",
+        "skills": ["Power BI", "Tableau", "Excel"],
+        "description": "Gained practical exposure to data visualization techniques and dashboard development."
+      },
+      {
+        "name": "Data Science",
+        "provider": "Udemy",
+        "skills": ["Data Preprocessing", "Statistical Analysis", "Data Visualization"],
+        "description": "Covered key concepts and tools in data science."
+      }
+    ],
+    "seminars_trainings_workshops": [
+      {
+        "name": "Full Stack Development",
+        "date": "07 Mar, 2024",
+        "institution": "SRM University Ramapuram Campus, Chennai",
+        "skills": ["Python"],
+        "description": "Participated in a workshop on Full Stack Development using Python and delivered a lecture on the subject matter."
+      }
+    ],
+    "extra_curricular_activities": ["Badminton", "NSS member"],
+    "personal_interests_hobbies": ["Badminton", "Travelling", "Volunteering"]
+  }
+  
